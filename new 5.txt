@@ -5,7 +5,7 @@
 
 Fix tablet UI (７．共通ダイアログ横スクロール(Scroll ngang))
 
-
+AAAAA
 1, Màn hình đã được sửa xong, hãy kéo sang phải trang để xem kết quả
 2, Kết quả
 
@@ -18,5 +18,7 @@ Fix tablet UI (７．共通ダイアログ横スクロール(Scroll ngang))
 				margin-top: 2px; 
 				padding-left: 22px;
 			}
-			
+
 			AAAA
+
+			BBB
