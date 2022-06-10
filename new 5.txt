@@ -18,3 +18,5 @@ Fix tablet UI (７．共通ダイアログ横スクロール(Scroll ngang))
 				margin-top: 2px; 
 				padding-left: 22px;
 			}
+			
+			AAAA
