@@ -8,7 +8,7 @@
 Fix tablet UI (７．共通ダイアログ横スクロール(Scroll ngang))A
 
 AAAAA
-1, Màn hình đã được sửa xong, hãy kéo sang phải trang để xem kết quả
+1, Màn hình đã được sửa xong, hãy kéo sang phải trang để xem kết quả1
 2, Kết quả
 
 .left-area {
