@@ -3,7 +3,7 @@
 ６．職場選択一覧(List chọn workplace)
 9 giang
 
-Fix tablet UI (７．共通ダイアログ横スクロール(Scroll ngang))
+Fix tablet UI (７．共通ダイアログ横スクロール(Scroll ngang))A
 
 AAAAA
 1, Màn hình đã được sửa xong, hãy kéo sang phải trang để xem kết quả
