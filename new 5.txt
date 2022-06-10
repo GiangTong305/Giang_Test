@@ -1,0 +1,20 @@
+12Dropdown
+10UserAgent
+６．職場選択一覧(List chọn workplace)
+9
+
+Fix tablet UI (７．共通ダイアログ横スクロール(Scroll ngang))
+
+
+1, Màn hình đã được sửa xong, hãy kéo sang phải trang để xem kết quả
+2, Kết quả
+
+.left-area {
+				padding-left:50px;
+			}
+			
+			.right-area {
+				min-width: 1095px;
+				margin-top: 2px; 
+				padding-left: 22px;
+			}
