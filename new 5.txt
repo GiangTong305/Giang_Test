@@ -12,7 +12,7 @@ AAAAA
 2, Kết quả Giang
 
 .left-area {
-				padding-left:50px;
+				padding-left:60px;
 			}
 			
 			.right-area {
