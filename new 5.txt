@@ -2,7 +2,7 @@
 10UserAgenta
 
 ６．職場選択一覧(List chọn workplace)AA
-9 giang
+9 giang1
 
 
 Fix tablet UI (７．共通ダイアログ横スクロール(Scroll ngang))A
